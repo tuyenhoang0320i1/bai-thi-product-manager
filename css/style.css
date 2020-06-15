@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+
+}
+
+.container {
+    height: 100%;
+    align-content: center;
+}
+
+body {
+    font-size: 14px;
+}
+
+a.btn.btn-primary {
+    font-size: 14px;
+}
+
+a.btn.btn-danger {font-size: 14px;}
+
+th {
+    text-align: center;
+}
+table{
+   border-collapse: collapse;
+}
